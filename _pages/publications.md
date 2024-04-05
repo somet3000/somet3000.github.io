@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Genome-wide analysis of CRISPR perturbations indicates that enhancers act multiplicatively and without epistatic-like interactions.
+Jessica Zhou*, __Karthik Guruvayurappan*__, Hsiuyi V. Chen, Aaron R. Chen, Graham McVicker
 
-{% include base_path %}
+_* denotes equal contribution_
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+_bioRxiv_(preprint)
+
+[PDF](https://www.biorxiv.org/content/10.1101/2023.04.26.538501v1.full.pdf) | [Code](https://github.com/mcvickerlab/GLiMMIRS)
+
+
+
+
