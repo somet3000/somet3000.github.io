@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Tri-Institutional Computational Biology
-and Medicine program. I was previously an undergraduate student in data science
-and biology at UC San Diego and a researcher in Graham McVicker's lab
-at the Salk Institute for Biological Studies. My research interests include gene
-regulation, statistical genetics, single-cell genomics, and CRISPR. For fun, I
-enjoy playing tennis, running, strumming the guitar, and watching football and
-basketball.
+Karthik is a (computational biology PhD student)[https://compbio.triiprograms.org/] at 
+(Memorial Sloan Kettering Cancer Center)[https://www.mskcc.org/]. Prior to joining MSK, 
+Karthik completed his bachelor's degrees in (data science)[https://datascience.ucsd.edu/]
+and (biology)[https://biology.ucsd.edu/] at (UC San Diego)[https://ucsd.edu/] and developed 
+statistical methods for analyzing genome perturbation experiments, advised by 
+(Graham McVicker)[https://mcvicker.salk.edu/]. For fun, Karthik enjoys watching sports,
+playing the guitar, and running in New York City.
