@@ -16,8 +16,6 @@ _bioRxiv_ preprint (2023)
 [PDF](https://www.biorxiv.org/content/10.1101/2023.04.26.538501v1.full.pdf) [Code](https://github.com/mcvickerlab/GLiMMIRS)
 <hr style="height:3px;border:none;color:#333;background-color:#333;">
 
-
-<hr style="height:3px;border:none;color:#333;background-color:#333;">
 ### Deletion mapping of regulatory elements for GATA3 in T cells reveals a distal enhancer involved in allergic diseases
 Hsiuyi V. Chen\*, Michael H. Lorenzini\*, Shanna N. Lavalle\*, Karthyayani Sajeev, Ariana Fonseca, Patrick C. Fiaux, Arko Sen, Ishika Luthra, Aaron J. Ho, Aaron R. Chen, __Karthik Guruvayurappan__, Carolyn O'Connor, Graham McVicker
 
